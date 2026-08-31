@@ -2,8 +2,8 @@
   evento: {
     nombre: "Hugo Perez Yallico",
     edad: 50,
-    fecha: "2026-09-19T18:00:00",
-    fechaTexto: "Sabado 19 de Septiembre, 2026",
+    fecha: "2026-09-18T18:00:00",
+    fechaTexto: "Viernes 18 de Septiembre, 2026",
     horaTexto: "06:00 PM",
     lugarTexto: "Direccion por confirmar",
     direccion: "Casino Militar de Supervisores, Técnicos y Suboficiales del Ejército, Villa Militar Pedro Ruiz Gallo, Miraflores, Arequipa",
